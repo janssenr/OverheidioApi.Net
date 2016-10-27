@@ -3,10 +3,10 @@ A C#/.net wrapper for the Overheid.io API
 
 #Installation
 
-KentekenApi.Net can easily be installed using the NuGet package
+OverheidioApi.Net can easily be installed using the NuGet package
 
 ```
-Install-Package KentekenApi
+Install-Package OverheidioApi
 ```
 
 
