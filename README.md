@@ -1,5 +1,14 @@
-# OverheidioApi.Net [![Build status](https://ci.appveyor.com/api/projects/status/2vww4qykint9wnr5?svg=true)](https://ci.appveyor.com/project/jfversluis/overheidioapi-net) [![NuGet version](https://badge.fury.io/nu/OverheidioApi.Net.svg)](https://badge.fury.io/nu/OverheidioApi.Net)
+# OverheidioApi.Net [![Build status](https://ci.appveyor.com/api/projects/status/0r0etq35absi1j42?svg=true)](https://ci.appveyor.com/project/janssenr/overheidioapi-net) [![NuGet version](https://badge.fury.io/nu/overheidioapi.svg)](https://badge.fury.io/nu/overheidioapi)
 A C#/.net wrapper for the Overheid.io API
+
+#Installation
+
+KentekenApi.Net can easily be installed using the NuGet package
+
+```
+Install-Package KentekenApi
+```
+
 
 # Getting started
 Just create a new `OverheidioApiClient` with your own API key.
